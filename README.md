@@ -13,4 +13,4 @@
 
 
 
-# SQL 처리 부분
+# SQL 처리 부분 (https://github.com/tlsdnwn55/DBMS-project/tree/main/SQL)
